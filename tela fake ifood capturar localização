@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Toop</title>
+  <style>
+    body {
+      margin: 0;
+      background-color: #ff0000; /* Vermelho */
+      font-family: Arial, sans-serif;
+      color: white;
+      text-align: center;
+    }
+
+    .logo {
+      margin-top: 20px;
+    }
+
+    .logo img {
+      height: 100px;
+    }
+
+    .banner img {
+      width: 100%;
+      max-height: 300px;
+      object-fit: cover;
+    }
+
+    h1 {
+      font-size: 48px;
+      margin: 20px 0;
+      text-transform: uppercase;
+    }
+
+    .login-btn {
+      background-color: white;
+      color: red;
+      padding: 15px 30px;
+      font-size: 20px;
+      font-weight: bold;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+      margin-top: 19px;
+    }
+
+    .login-btn:hover {
+      background-color: #ffcccc;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Banner -->
+  <div class="banner">
+    <img src=''https://postimg.cc/tngCHRDX' target='_blank'><img src='https://i.postimg.cc/tngCHRDX/images-1.jpg' border='0' alt='images-1'/></a>
+  </div>
+
+  <!-- Título -->
+  <h1>𝐈𝐟𝐨𝐨𝐝</h1>𝐜𝐨𝐧𝐟𝐢𝐫𝐚 𝐚𝐬 𝐝𝐞𝐥𝐢𝐜𝐢𝐚𝐬 𝐦𝐚𝐢𝐬 𝐩𝐫𝐨𝐱𝐢𝐦𝐚𝐬 𝐝𝐞 𝐯𝐨𝐜𝐞!!!
+
+  <!-- Botão de Login -->
+  <a href="https://is.gd/Ifoodgratis" target="_blank">
+    <button class="login-btn">Login</button>
+  </a>
+
+</body>
+</html>
